@@ -1,2 +1,2 @@
-Procura no Banco de Dados as partidas com os jogadores desejados.
-Mostra quais são os jogos e aponta para o link da partida no www.verdazzo.com
+Busca estatísticas de Cartões e Escanteios das principais ligas de futebol.
+Acesso ao site https://www.thestatsdontlie.com/football/
